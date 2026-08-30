@@ -1,6 +1,6 @@
 {
   "control_repository": "kpbianco/portfolio-control",
-  "control_revision": "git:4434b282-cfb47997-d791bd29-33faf980-453d199a",
+  "control_revision": "git:63d4d5e1-648e0cdd-6ae49c3c-7e552aec-e481ed0e",
   "harness_version": 2,
   "managed_paths": {
     ".agents/skills/ci-diagnose/SKILL.md": "sha256:93a7ce82-51786852-39d6f3f1-24e5670f-648b7f6a-242be771-6e86fd8b-10f653b0",
@@ -26,9 +26,9 @@
     ".github/codex/schemas/planner-review.schema.json": "sha256:0b6e73da-860c4c6d-9024f6e2-c2889162-f4d49813-e4c50691-87f68ef7-9183eba9",
     ".github/codex/schemas/product.schema.json": "sha256:18d0bd3f-439c1050-33309579-43c6daa8-b28aaccb-d8f7613f-0901b3aa-35535cfe",
     ".gitignore": "sha256:463231ef-b8b67ee8-36e26ad7-9215b7a4-e762ab66-03e3fd60-03bf6d97-abb840fb",
-    "AGENTS.md": "sha256:e82c95c2-2e3e20a1-ba1a0ad4-bf96a775-e0201b0c-de8a408f-b458c80b-f43878ca",
+    "AGENTS.md": "sha256:0b1f00fb-71d2ba5a-2e6bcfb5-b7ade858-4bc17839-ce1a7877-1e38d15f-6fa13b5a",
     "contracts/profile-requirements.yaml": "sha256:9ea06e3a-e247df20-0b6d65cd-26a6e91c-0e6d2f8d-0f455e46-b88e0855-d5120c94",
-    "contracts/repo-profile.yaml": "sha256:8f2cca84-ad4f5aa5-201933ed-c14f5b3b-139cfe50-8951e682-b6dad2c4-13347a93"
+    "contracts/repo-profile.yaml": "sha256:ad5a5ad7-1b0a49dd-1b2f1252-bb9afd7b-c5774051-9c11b3b9-9bc600a7-c987a38c"
   },
   "product": "controls-gnc-learning",
   "profile": "product-data",
