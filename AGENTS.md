@@ -35,6 +35,7 @@ This repository is the **Controls, State Estimation, Guidance, and Navigation** 
 <!-- BEGIN PORTFOLIO-CONTROL MANAGED -->
 ## Governed agentic delivery
 
+- Read `.agents/skills/engineering-execution/SKILL.md` for nontrivial work: complete the requested outcome, verify its entry point, and preserve context.
 - Product: `controls-gnc-learning`; delivery profile: `product-data`.
 - Control revision: `4434b282cfb47997d791bd2933faf980453d199a`; harness version: `2`.
 - Read `contracts/profile-requirements.yaml` and the approved
